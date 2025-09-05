@@ -10,7 +10,7 @@ Kafka and Zookeeper are provisioned locally using **Docker Compose**.
 ---
 
 ## 🚀 Tech Stack
-- **Java 17**
+- **Java 17+**
 - **Spring Boot 3**
 - **Spring Kafka**
 - **Apache Kafka**
